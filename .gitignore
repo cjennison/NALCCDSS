@@ -1,0 +1,16 @@
+*~
+node_modules
+public/images/StocStrFlow.png
+public/images/StocStrTemp.png
+public/images/StocWeather.png
+public/images/models
+config/streams.json
+.DS_Store
+config/streams.json
+lib/mexec/a.json
+lib/mexec/buildrunTest.js
+lib/mexec/test
+logs
+cookie.txt
+mexec.json
+mexec.sh
